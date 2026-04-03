@@ -15,7 +15,7 @@
 
 AI-powered insurance claim intake assistant that processes multi-modal submissions — email, PDF, image, and audio — and maps extracted data to standardized FNOL fields.
 
-**[Live Demo](https://intake-iq.symfa.ai/)** · **[GitHub](https://github.com/Symfa-Inc/intake-iq)** · **[Confluence](#)**
+**[Live Demo](https://intake-iq.symfa.ai)** · **[GitHub](https://github.com/Symfa-Inc/intake-iq)** · **[Confluence](https://symfa.atlassian.net/wiki/x/XgCENgE)**
 
 </div>
 
@@ -45,7 +45,7 @@ Insurance claim submissions arrive through multiple channels (email, PDF attachm
 | Backend | Python 3.13, FastAPI, Uvicorn |
 | Frontend | TypeScript, Next.js, React, Tailwind CSS |
 | AI/ML | Azure Document Intelligence, OpenAI, Whisper |
-| Data | Pydantic, aiofiles |
+| Data | Pydantic |
 | Package Management | uv (backend), pnpm (frontend) |
 | Deployment | Docker, GitHub Actions, Google Artifact Registry |
 
