@@ -1,0 +1,79 @@
+{
+  "dialogue_id": "workers_comp_call_03",
+  "title": "Delivery driver car accident - investigation required",
+  "domain": "workers_compensation",
+  "imaginary": true,
+  "outcome": "under_investigation",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "Agent",
+      "utterance": "Horizon Mutual claims, this is Alana. Are you calling to report a workplace injury?"
+    },
+    {
+      "turn": 2,
+      "speaker": "Caller",
+      "utterance": "Yes. I'm a delivery driver and got into a minor crash while on route yesterday. My neck is stiff and painful."
+    },
+    {
+      "turn": 3,
+      "speaker": "Agent",
+      "utterance": "I'm sorry to hear that. Were you operating your employer's vehicle during a scheduled delivery?"
+    },
+    {
+      "turn": 4,
+      "speaker": "Caller",
+      "utterance": "Yes, company van, route stop 12. It happened around 5:15 PM."
+    },
+    {
+      "turn": 5,
+      "speaker": "Agent",
+      "utterance": "Were police called, and was an accident report filed?"
+    },
+    {
+      "turn": 6,
+      "speaker": "Caller",
+      "utterance": "Yes, police came. I have a report number, but I don't have it in front of me."
+    },
+    {
+      "turn": 7,
+      "speaker": "Agent",
+      "utterance": "No problem. Did you seek treatment?"
+    },
+    {
+      "turn": 8,
+      "speaker": "Caller",
+      "utterance": "I went to the ER last night. They said cervical strain and told me to follow up in three days."
+    },
+    {
+      "turn": 9,
+      "speaker": "Agent",
+      "utterance": "Thank you. Because this involves a motor vehicle incident, we'll coordinate workers' comp and auto liability review. I'll open the claim, but status will be under investigation."
+    },
+    {
+      "turn": 10,
+      "speaker": "Caller",
+      "utterance": "Does that mean treatment is delayed?"
+    },
+    {
+      "turn": 11,
+      "speaker": "Agent",
+      "utterance": "Emergency and initial necessary care is typically not delayed. Ongoing treatment authorization depends on investigation findings."
+    },
+    {
+      "turn": 12,
+      "speaker": "Caller",
+      "utterance": "Understood."
+    },
+    {
+      "turn": 13,
+      "speaker": "Agent",
+      "utterance": "Your claim number is WC-612990. Please send the police report number and ER discharge paperwork when available."
+    },
+    {
+      "turn": 14,
+      "speaker": "Caller",
+      "utterance": "I can send those by tomorrow morning."
+    }
+  ]
+}

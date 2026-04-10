@@ -1,0 +1,17 @@
+Title: Construction hand laceration - urgent escalation
+
+Agent: Horizon Mutual injury intake, this is Leo. Do you need emergency assistance?
+Caller: I cut my hand badly at a construction site about 20 minutes ago. There's still bleeding through the bandage.
+Agent: If bleeding is uncontrolled, please call emergency services immediately. Are you alone right now?
+Caller: My foreman is here and driving me to the emergency room now.
+Agent: Good. I'll capture only critical details now and complete intake after you're safe. Name and employer?
+Caller: Jose Martinez, IronPeak Construction.
+Agent: How did the injury occur?
+Caller: A utility knife slipped while I was cutting insulation on site.
+Agent: Understood. I'm flagging this as an urgent workplace injury and opening claim WC-701433 for immediate treatment.
+Caller: Do I need pre-authorization before the ER?
+Agent: No, seek emergency treatment now. Have the hospital reference claim WC-701433 and your employer contact us for full intake.
+Caller: Okay, heading in now.
+Agent: Take care. We'll follow up once you're stable.
+
+Outcome: urgent_accepted_initial

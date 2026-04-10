@@ -1,0 +1,13 @@
+{
+  "message_id": "workers_comp_voicemail_09",
+  "title": "Electrician minor shock and hand numbness",
+  "domain": "workers_compensation",
+  "imaginary": true,
+  "message_type": "voicemail_no_agent",
+  "caller_name": "Caleb Morris",
+  "employer": "Summit Electrical Services",
+  "event_datetime": "2026-03-28T09:15:00",
+  "injury_type": "electrical shock with hand numbness",
+  "urgency": "medical_clearance_needed",
+  "transcript": "Good afternoon, this is Caleb Morris from Summit Electrical Services. I need to report a workers compensation incident. At around 9:15 AM on Friday I received a minor electrical shock while testing a panel at a commercial site. I did not lose consciousness, but my right hand felt numb afterward. My site lead instructed me to go to the ER for evaluation and they discharged me with follow-up instructions. Please return my call so I can provide records and complete the claim process."
+}

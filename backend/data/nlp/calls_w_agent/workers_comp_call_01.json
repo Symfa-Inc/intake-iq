@@ -1,0 +1,79 @@
+{
+  "dialogue_id": "workers_comp_call_01",
+  "title": "Warehouse back strain - pending documentation",
+  "domain": "workers_compensation",
+  "imaginary": true,
+  "outcome": "pending_documents",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "Agent",
+      "utterance": "Thank you for calling Horizon Mutual workers' compensation claims. My name is Erica. How can I help you today?"
+    },
+    {
+      "turn": 2,
+      "speaker": "Caller",
+      "utterance": "Hi, I'm calling to report a work injury from this morning. I lifted a heavy box in the warehouse and hurt my lower back."
+    },
+    {
+      "turn": 3,
+      "speaker": "Agent",
+      "utterance": "I'm sorry that happened. Are you in a safe place now, and have you received medical care?"
+    },
+    {
+      "turn": 4,
+      "speaker": "Caller",
+      "utterance": "Yes, I went to urgent care about two hours later. They said it's a lumbar strain and gave me restrictions."
+    },
+    {
+      "turn": 5,
+      "speaker": "Agent",
+      "utterance": "Understood. I'll start a first report of injury. Can you confirm your full name, employer, and date of birth?"
+    },
+    {
+      "turn": 6,
+      "speaker": "Caller",
+      "utterance": "I'm Daniel Ruiz, I work for Northside Logistics, and my birth date is June 14, 1992."
+    },
+    {
+      "turn": 7,
+      "speaker": "Agent",
+      "utterance": "Thank you. What date and time did the incident happen, and where exactly were you?"
+    },
+    {
+      "turn": 8,
+      "speaker": "Caller",
+      "utterance": "Today at around 8:10 AM in aisle C4, near the loading dock."
+    },
+    {
+      "turn": 9,
+      "speaker": "Agent",
+      "utterance": "Did anyone witness the injury, and did you notify your supervisor?"
+    },
+    {
+      "turn": 10,
+      "speaker": "Caller",
+      "utterance": "Yes, my coworker Malik saw me and my supervisor Jenna filed an incident note."
+    },
+    {
+      "turn": 11,
+      "speaker": "Agent",
+      "utterance": "Great. Based on what you've shared, this appears potentially compensable. I need the urgent care discharge note and your work restriction form to continue processing."
+    },
+    {
+      "turn": 12,
+      "speaker": "Caller",
+      "utterance": "I can upload those tonight."
+    },
+    {
+      "turn": 13,
+      "speaker": "Agent",
+      "utterance": "Perfect. Your claim number is WC-473821. Status is pending medical documentation. You'll receive a confirmation email within 24 hours."
+    },
+    {
+      "turn": 14,
+      "speaker": "Caller",
+      "utterance": "Thank you, that's helpful."
+    }
+  ]
+}

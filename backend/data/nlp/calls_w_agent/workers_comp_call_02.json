@@ -1,0 +1,79 @@
+{
+  "dialogue_id": "workers_comp_call_02",
+  "title": "Nurse needle stick - accepted initial claim",
+  "domain": "workers_compensation",
+  "imaginary": true,
+  "outcome": "accepted_initial",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "Agent",
+      "utterance": "Workers' compensation intake, this is Marcus speaking. How may I assist you?"
+    },
+    {
+      "turn": 2,
+      "speaker": "Caller",
+      "utterance": "I'm a nurse at Greenview Clinic. I had a needle stick injury during a blood draw this afternoon."
+    },
+    {
+      "turn": 3,
+      "speaker": "Agent",
+      "utterance": "Thanks for reporting right away. Did the exposure occur while performing your job duties?"
+    },
+    {
+      "turn": 4,
+      "speaker": "Caller",
+      "utterance": "Yes, I was drawing blood from a patient in exam room 3 around 2:40 PM."
+    },
+    {
+      "turn": 5,
+      "speaker": "Agent",
+      "utterance": "Did you follow exposure protocol and notify your charge nurse?"
+    },
+    {
+      "turn": 6,
+      "speaker": "Caller",
+      "utterance": "Yes, I washed the area immediately, reported it, and employee health started baseline labs."
+    },
+    {
+      "turn": 7,
+      "speaker": "Agent",
+      "utterance": "Good. Please provide your legal name and employer address for the file."
+    },
+    {
+      "turn": 8,
+      "speaker": "Caller",
+      "utterance": "My name is Tiana Brooks. Employer is Greenview Clinic, 2210 Fairmont Avenue, Phoenix."
+    },
+    {
+      "turn": 9,
+      "speaker": "Agent",
+      "utterance": "Thank you. Any current symptoms?"
+    },
+    {
+      "turn": 10,
+      "speaker": "Caller",
+      "utterance": "No symptoms, just anxiety and follow-up testing instructions."
+    },
+    {
+      "turn": 11,
+      "speaker": "Agent",
+      "utterance": "Understood. I'm opening your claim as accepted for initial treatment and follow-up labs. Claim number is WC-558204."
+    },
+    {
+      "turn": 12,
+      "speaker": "Caller",
+      "utterance": "Will counseling related to exposure anxiety be covered?"
+    },
+    {
+      "turn": 13,
+      "speaker": "Agent",
+      "utterance": "If referred by employee health or your treating provider, it may be covered under the claim. Keep all referrals and receipts."
+    },
+    {
+      "turn": 14,
+      "speaker": "Caller",
+      "utterance": "Okay, I will. Thank you."
+    }
+  ]
+}

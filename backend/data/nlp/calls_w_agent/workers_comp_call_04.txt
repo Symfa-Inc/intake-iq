@@ -1,0 +1,16 @@
+Title: Restaurant slip in parking lot after shift - likely denied
+
+Agent: Workers' compensation hotline, this is Priya. How can I help you?
+Caller: I slipped in the restaurant parking lot last night and twisted my ankle. I want to file workers' comp.
+Agent: I can help gather details. Were you clocked in and performing work duties at the time?
+Caller: No, I had clocked out and was walking to my personal car after meeting friends for dinner.
+Agent: Thanks for clarifying. Did the injury happen in an employee-only area or while completing an employer task?
+Caller: No, just in the public parking lot.
+Agent: Based on that information, this may fall outside workers' compensation because it occurred after shift and not during work duties. I can still document the report for formal review.
+Caller: So it's probably not covered?
+Agent: Correct, likely non-compensable under workers' comp policy terms. You may wish to check personal health insurance or premises liability options.
+Caller: Please still file it.
+Agent: Absolutely. Reference number WC-640112 has been created with preliminary status: likely denied pending final adjuster determination.
+Caller: Okay, thank you for explaining.
+
+Outcome: likely_denied_non_work_activity

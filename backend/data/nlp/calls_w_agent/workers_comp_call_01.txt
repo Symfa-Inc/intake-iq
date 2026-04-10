@@ -1,0 +1,18 @@
+Title: Warehouse back strain - pending documentation
+
+Agent: Thank you for calling Horizon Mutual workers' compensation claims. My name is Erica. How can I help you today?
+Caller: Hi, I'm calling to report a work injury from this morning. I lifted a heavy box in the warehouse and hurt my lower back.
+Agent: I'm sorry that happened. Are you in a safe place now, and have you received medical care?
+Caller: Yes, I went to urgent care about two hours later. They said it's a lumbar strain and gave me restrictions.
+Agent: Understood. I'll start a first report of injury. Can you confirm your full name, employer, and date of birth?
+Caller: I'm Daniel Ruiz, I work for Northside Logistics, and my birth date is June 14, 1992.
+Agent: Thank you. What date and time did the incident happen, and where exactly were you?
+Caller: Today at around 8:10 AM in aisle C4, near the loading dock.
+Agent: Did anyone witness the injury, and did you notify your supervisor?
+Caller: Yes, my coworker Malik saw me and my supervisor Jenna filed an incident note.
+Agent: Great. Based on what you've shared, this appears potentially compensable. I need the urgent care discharge note and your work restriction form to continue processing.
+Caller: I can upload those tonight.
+Agent: Perfect. Your claim number is WC-473821. Status is pending medical documentation. You'll receive a confirmation email within 24 hours.
+Caller: Thank you, that's helpful.
+
+Outcome: pending_documents

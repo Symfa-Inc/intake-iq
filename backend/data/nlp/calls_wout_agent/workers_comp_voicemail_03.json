@@ -1,0 +1,13 @@
+{
+  "message_id": "workers_comp_voicemail_05",
+  "title": "School custodian chemical splash to eye",
+  "domain": "workers_compensation",
+  "imaginary": true,
+  "message_type": "voicemail_no_agent",
+  "caller_name": "Janet Lee",
+  "employer": "Mesa Unified School District",
+  "event_datetime": "2026-04-02T06:30:00",
+  "injury_type": "chemical eye irritation",
+  "urgency": "same_day_follow_up",
+  "transcript": "This is Janet Lee, custodian with Mesa Unified School District. I'm reporting a workplace accident for workers comp. At around 6:30 this morning, disinfectant solution splashed into my right eye while I was mixing cleaning supplies in the storage room. I used the eyewash station immediately and then went to occupational health. They diagnosed chemical irritation and asked for a follow-up exam tomorrow. My lead, Mr. Patel, has the incident report. Please call me when my claim is active."
+}

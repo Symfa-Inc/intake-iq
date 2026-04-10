@@ -1,0 +1,18 @@
+Title: Delivery driver car accident - investigation required
+
+Agent: Horizon Mutual claims, this is Alana. Are you calling to report a workplace injury?
+Caller: Yes. I'm a delivery driver and got into a minor crash while on route yesterday. My neck is stiff and painful.
+Agent: I'm sorry to hear that. Were you operating your employer's vehicle during a scheduled delivery?
+Caller: Yes, company van, route stop 12. It happened around 5:15 PM.
+Agent: Were police called, and was an accident report filed?
+Caller: Yes, police came. I have a report number, but I don't have it in front of me.
+Agent: No problem. Did you seek treatment?
+Caller: I went to the ER last night. They said cervical strain and told me to follow up in three days.
+Agent: Thank you. Because this involves a motor vehicle incident, we'll coordinate workers' comp and auto liability review. I'll open the claim, but status will be under investigation.
+Caller: Does that mean treatment is delayed?
+Agent: Emergency and initial necessary care is typically not delayed. Ongoing treatment authorization depends on investigation findings.
+Caller: Understood.
+Agent: Your claim number is WC-612990. Please send the police report number and ER discharge paperwork when available.
+Caller: I can send those by tomorrow morning.
+
+Outcome: under_investigation

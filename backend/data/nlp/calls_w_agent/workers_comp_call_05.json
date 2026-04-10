@@ -1,0 +1,74 @@
+{
+  "dialogue_id": "workers_comp_call_05",
+  "title": "Construction hand laceration - urgent escalation",
+  "domain": "workers_compensation",
+  "imaginary": true,
+  "outcome": "urgent_accepted_initial",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "Agent",
+      "utterance": "Horizon Mutual injury intake, this is Leo. Do you need emergency assistance?"
+    },
+    {
+      "turn": 2,
+      "speaker": "Caller",
+      "utterance": "I cut my hand badly at a construction site about 20 minutes ago. There's still bleeding through the bandage."
+    },
+    {
+      "turn": 3,
+      "speaker": "Agent",
+      "utterance": "If bleeding is uncontrolled, please call emergency services immediately. Are you alone right now?"
+    },
+    {
+      "turn": 4,
+      "speaker": "Caller",
+      "utterance": "My foreman is here and driving me to the emergency room now."
+    },
+    {
+      "turn": 5,
+      "speaker": "Agent",
+      "utterance": "Good. I'll capture only critical details now and complete intake after you're safe. Name and employer?"
+    },
+    {
+      "turn": 6,
+      "speaker": "Caller",
+      "utterance": "Jose Martinez, IronPeak Construction."
+    },
+    {
+      "turn": 7,
+      "speaker": "Agent",
+      "utterance": "How did the injury occur?"
+    },
+    {
+      "turn": 8,
+      "speaker": "Caller",
+      "utterance": "A utility knife slipped while I was cutting insulation on site."
+    },
+    {
+      "turn": 9,
+      "speaker": "Agent",
+      "utterance": "Understood. I'm flagging this as an urgent workplace injury and opening claim WC-701433 for immediate treatment."
+    },
+    {
+      "turn": 10,
+      "speaker": "Caller",
+      "utterance": "Do I need pre-authorization before the ER?"
+    },
+    {
+      "turn": 11,
+      "speaker": "Agent",
+      "utterance": "No, seek emergency treatment now. Have the hospital reference claim WC-701433 and your employer contact us for full intake."
+    },
+    {
+      "turn": 12,
+      "speaker": "Caller",
+      "utterance": "Okay, heading in now."
+    },
+    {
+      "turn": 13,
+      "speaker": "Agent",
+      "utterance": "Take care. We'll follow up once you're stable."
+    }
+  ]
+}

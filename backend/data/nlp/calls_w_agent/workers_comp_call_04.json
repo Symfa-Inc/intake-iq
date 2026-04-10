@@ -1,0 +1,69 @@
+{
+  "dialogue_id": "workers_comp_call_04",
+  "title": "Restaurant slip in parking lot after shift - likely denied",
+  "domain": "workers_compensation",
+  "imaginary": true,
+  "outcome": "likely_denied_non_work_activity",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "Agent",
+      "utterance": "Workers' compensation hotline, this is Priya. How can I help you?"
+    },
+    {
+      "turn": 2,
+      "speaker": "Caller",
+      "utterance": "I slipped in the restaurant parking lot last night and twisted my ankle. I want to file workers' comp."
+    },
+    {
+      "turn": 3,
+      "speaker": "Agent",
+      "utterance": "I can help gather details. Were you clocked in and performing work duties at the time?"
+    },
+    {
+      "turn": 4,
+      "speaker": "Caller",
+      "utterance": "No, I had clocked out and was walking to my personal car after meeting friends for dinner."
+    },
+    {
+      "turn": 5,
+      "speaker": "Agent",
+      "utterance": "Thanks for clarifying. Did the injury happen in an employee-only area or while completing an employer task?"
+    },
+    {
+      "turn": 6,
+      "speaker": "Caller",
+      "utterance": "No, just in the public parking lot."
+    },
+    {
+      "turn": 7,
+      "speaker": "Agent",
+      "utterance": "Based on that information, this may fall outside workers' compensation because it occurred after shift and not during work duties. I can still document the report for formal review."
+    },
+    {
+      "turn": 8,
+      "speaker": "Caller",
+      "utterance": "So it's probably not covered?"
+    },
+    {
+      "turn": 9,
+      "speaker": "Agent",
+      "utterance": "Correct, likely non-compensable under workers' comp policy terms. You may wish to check personal health insurance or premises liability options."
+    },
+    {
+      "turn": 10,
+      "speaker": "Caller",
+      "utterance": "Please still file it."
+    },
+    {
+      "turn": 11,
+      "speaker": "Agent",
+      "utterance": "Absolutely. Reference number WC-640112 has been created with preliminary status: likely denied pending final adjuster determination."
+    },
+    {
+      "turn": 12,
+      "speaker": "Caller",
+      "utterance": "Okay, thank you for explaining."
+    }
+  ]
+}

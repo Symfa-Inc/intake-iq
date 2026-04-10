@@ -1,0 +1,10 @@
+Title: Office employee repetitive strain worsening
+
+Caller Name: Priyanka Das
+Employer: Valley Claims Processing
+Event Datetime: 2026-03-30T16:45:00
+Injury Type: repetitive strain in right wrist
+Urgency: non_emergency_open_claim
+
+Voicemail:
+Hello, this is Priyanka Das from Valley Claims Processing. I'm calling to report what my supervisor said should be a workers comp repetitive strain claim. Over the past few weeks my right wrist pain has increased from constant keyboard and mouse use. Yesterday around 4:45 PM I could barely finish my shift and employee health advised me to report it officially. They mentioned possible tendonitis and asked for ergonomic restrictions. Please call me back to start the claim and tell me what documentation you need.
