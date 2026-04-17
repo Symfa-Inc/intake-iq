@@ -1,0 +1,25 @@
+Horizon Mutual Injury Intake. This is Leo. Do you need emergency assistance?
+
+I cut my hand badly at a construction site about 20 minutes ago. They're still bleeding through the bandage.
+
+If bleeding is uncontrolled, please call emergency services immediately. Are you alone right now?
+
+My foreman is here and driving me to the emergency room now.
+
+Good. I'll capture only critical details now and complete intake after you're safe. Name and employer?
+
+Jose Martinez, Iron Peak Construction.
+
+How did the injury occur?
+
+A utility knife slipped while I was cutting insulation on site.
+
+Understood. I'm flagging this as an urgent workplace injury and opening claim WC-701433 for immediate treatment.
+
+Do I need pre-authorization before the ER?
+
+No. Seek emergency treatment now. Have the hospital reference claim WC-701433 and your employer contact us for full intake.
+
+Okay. Heading in now.
+
+Take care. We'll follow up once you're stable.
